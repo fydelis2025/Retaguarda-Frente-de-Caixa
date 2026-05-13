@@ -1,0 +1,10 @@
+﻿<?xml version="1.0"?>
+<!-- 
+  Visual Studio global web project settings.
+-->
+<VisualWebDeveloper>
+
+  <comReferences>
+    <reference Name="interop.capicom" ID="{BD26B198-EE42-4725-9B23-AFA912434229}\2.1\0"/>
+  </comReferences>
+</VisualWebDeveloper>
